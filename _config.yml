@@ -7,14 +7,10 @@
 
 # Site settings
 title: Sergio Leal's Blog
-email: sergio [at] sergiolealdev [dot] com
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog of Sergio Leal.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://sergiolealdev.com" # the base hostname & protocol for your site
-twitter_username: sergiolealdev
-github_username:  sergiolealdev
-youtube_username:  sergiolealdev
 
 # Build settings
 markdown: kramdown
