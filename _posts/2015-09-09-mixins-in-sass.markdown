@@ -1,8 +1,6 @@
 ﻿---
 layout: post
 title:  "Mixins in SASS"
-date:   2015-09-09 10:25:41 +0100
-categories: css sass
 ---
 Sass is a great technology that allows us to handle our style files by adding features like variables, nesting, mixins, inheritance…… Basically is like “programming” your css.
 
