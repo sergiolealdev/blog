@@ -45,4 +45,4 @@ As of version 4.1.6 of Spring, several things have changed and I have noticed th
 
 Again, I encourage you to watch Brian &amp; Rossen’s presentation, where they explain this concept much better than I do.
 
-<img  src="http://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github_24px" width="24" height="24" /></a> <a href="https://github.com/sergiolealdev/SpringStaticResourceHandling" target="_blank">Watch / Download this demo in Github</a>
+<img  src="http://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github_24px" width="24" height="24" /><a href="https://github.com/sergiolealdev/SpringStaticResourceHandling" target="_blank">Watch / Download this demo in Github</a>
