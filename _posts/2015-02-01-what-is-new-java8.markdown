@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's new in java 8!"
-date:   2015-11-05 10:25:41 +0100
+date:   2015-02-01 10:25:41 +0100
 categories: java java8
 ---
 balablbalbalba
