@@ -9,7 +9,9 @@ categories: java java8
 <p dir="ltr">With Stream we can handle data the same way we would work in a <a href="http://en.wikipedia.org/wiki/Big_data">Big Data</a> environment, applying map-filter-reduce operations, for example.<!--more--></p>
 <p dir="ltr">But aware you must! a Stream may look like a <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Collection.html">Collection</a> at first sight, but it is NOT a collection. I repeat. It is <b>not </b>a collection. Collections and Streams work in a total different way. In fact, a Stream object does not store any info, unlike a Collection.</p>
 
-<pre class="font:consolas whitespace-before:1 whitespace-after:1 lang:java decode:true ">List&lt;String&gt; employees = Arrays
+{% highlight java %}
+
+List<String> employees = Arrays
                 .asList( "John \"Hannibal\" Smith ", 
                          "Templeton Peck", 
                          " H.M. \"Howling Mad\" Murdock", 
@@ -18,11 +20,14 @@ categories: java java8
 //We want all items that start with T 
 employees 
    .stream() 
-   .filter(s -&gt; s.startsWith("T")) 
-   .forEach(e -&gt; System.out.println(e)); 
+   .filter(s -> s.startsWith("T")) 
+   .forEach(e -> System.out.println(e)); 
 
 //But at the end, the employees list remains intact 
-System.out.println(employees.size());</pre>
+System.out.println(employees.size());
+
+{% endhighlight %}
+
 &nbsp;
 <p dir="ltr">If we execute this code, we would get the following console output.</p>
 
