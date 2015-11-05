@@ -75,4 +75,5 @@ As we can see, the refactor leaves our scss file cleaner and easier to use and u
 Feel free to fork the sample and play with it to understand how it works and also to try many other capabilities that are not included in this post.
 
 <img  src="http://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github_24px" width="24" height="24" /><a href="https://github.com/sergiolealdev/SampleMixinsSass" target="_blank">Watch / Download example on Github</a>
+<br>
 <img  src="http://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Web-YouTube-Metro-icon.png" alt="github_24px" width="24" height="24" /><a href="https://www.youtube.com/watch?v=Roe93U8X9LE" target="_blank">Watch how to setup Scout</a>
