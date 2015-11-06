@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sergio Leal's Blog
+title: Sergio Leal
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog of Sergio Leal.
+  Blog pretending to talk about developing and stuff.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://sergiolealdev.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-
