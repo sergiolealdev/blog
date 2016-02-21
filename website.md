@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Go back to landing page
-permalink: /
+permalink: /website/
 ---
+test
