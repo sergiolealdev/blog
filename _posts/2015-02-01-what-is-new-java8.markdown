@@ -85,4 +85,5 @@ at com.sergiolealdev.java8.streams.Main.main(Main.java:33)
 {% endhighlight %}
 
 <p dir="ltr">This is it for the first part of the new features in Java8. New posts arriving soon!!</p>
-<p dir="ltr"><img  src="http://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github_24px" width="24" height="24" /></a> <a href="https://github.com/sergiolealdev/SampleStreamAPIJava8" target="_blank">Watch/Download this code in Github</a></p>
+<p dir="ltr"><img  src="http://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" alt="github_24px" width="24" height="24" />
+ <a href="https://github.com/sergiolealdev/SampleStreamAPIJava8" target="_blank">Watch/Download this code in Github</a></p>
