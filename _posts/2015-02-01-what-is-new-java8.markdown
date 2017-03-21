@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What do we have in Java 8 (Part 1)"
+comments: true
 date:   2015-02-01 10:25:41 +0100
 categories: java java8
 ---
